@@ -1,0 +1,12 @@
+Excel
+SQL
+Power BI(Moduling, Preparation, Visualize)
+Tableau(Moduling, Visualize)
+Python, R
+
+Extra:
+Google Studio
+Azure
+Aws
+Qlickview
+Apache Kafka

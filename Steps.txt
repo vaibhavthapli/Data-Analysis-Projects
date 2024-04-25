@@ -1,0 +1,18 @@
+DA/DA Project Pipleline
+
+1: Understanding Problem/Objective
+  1.1: BA with client
+  1.2: DA/DS Project start
+  1.3: location of Data
+    1.3.1: Primary source
+    1.3.2: Secondary source
+2: ETL(Extract Transform Loading)
+3: EDA
+4: Data Visualization
+5: Moduling
+
+Transformation:
+.clearning-> bad data, Misaligned data, Null Values, Duplicates, Outliers
+.Data Featuring-> 
+  .Scaling
+
